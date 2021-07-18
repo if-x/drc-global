@@ -58,5 +58,3 @@ yarn build
 ```
 yarn deploy-gh-pages
 ```
-
-Url: https://fxue89.github.io/drc-global/
