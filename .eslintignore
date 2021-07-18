@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# gatsby files
+.cache/
+
+# build folder
+public/
+
+graphql-types.ts
